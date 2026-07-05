@@ -27,6 +27,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
+  <img src="https://skillicons.dev/icons?i=scss" alt="scss" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
   <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" />
 </p>
@@ -63,11 +64,13 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Статистика
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kerry21st&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kerry21st&layout=compact&theme=radical&hide_border=true)
+<p align="center">
+  <a href="https://github.com/Kerry21st">
+    <img src="https://streak-stats.demolab.com/?user=Kerry21st&theme=dark" alt="Стрик временно недоступен" width="48%" />
+  </a>
+</p>
 
 ---
 
