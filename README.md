@@ -1,16 +1,13 @@
-
 <div align="center">
-  <h1>Привет, я Дмитрий 👋</h1>
-  
-  <p>
-    <strong>19 лет • Junior Fullstack Web Developer</strong><br>
-    Чебоксары, Россия
-  </p>
-
-  <a href="https://t.me/dimakerb">
-    <img src="https://img.shields.io/badge/Telegram-@dimakerb-229ED9?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
-  </a>
+  <img src="https://avatars.githubusercontent.com/u/147642287?s=400&u=e3fcbdbabcd646a3ec221f2db46f95ff887cf5c3&v=4" width="160" 
+       height="160" 
+       style="border-radius:50%; border:4px solid #c2491f; margin-bottom:16px;" 
+       alt="Дмитрий">
+  <h1>Привет, я Дмитрий </h1>
+  <p><strong>19 лет • Junior Fullstack Web Developer</strong><br>Чебоксары, Россия</p>
 </div>
+
+<br>
 
 ---
 
@@ -19,8 +16,8 @@
 Самостоятельно разрабатываю веб-приложения.  
 Главный проект — **FieldMate**, полноценный интернет-магазин сельхозтехники.
 
-- 🎯 Ищу первую работу / стажировку Junior Fullstack или Frontend Developer
-- 💡 Люблю чистый код и проекты, которые решают реальные задачи
+-  Ищу первую работу / стажировку Junior Fullstack или Frontend Developer
+-  Люблю чистый код и проекты, которые решают реальные задачи
 
 ### 🛠 Стек технологий
 
