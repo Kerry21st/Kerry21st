@@ -26,6 +26,7 @@
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
   <img src="https://skillicons.dev/icons?i=scss" alt="scss" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
   <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" />
 </p>
