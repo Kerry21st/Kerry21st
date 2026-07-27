@@ -3,7 +3,7 @@
        height="160" 
        style="border-radius:50%; border:4px solid #c2491f; margin-bottom:16px;" 
        alt="Дмитрий">
-  <h1>Привет, я Дмитрий </h1>
+  <h1>Привет, я Дмитрий</h1>
   <p><strong>19 лет • Junior Fullstack Web Developer</strong><br>Чебоксары, Россия</p>
 </div>
 
@@ -13,11 +13,13 @@
 
 ### Обо мне
 
-Самостоятельно разрабатываю веб-приложения.  
-Главный проект — **FieldMate**, полноценный интернет-магазин сельхозтехники.
+Пишу веб-приложения от вёрстки до базы данных. Главный проект — **FieldMate**, интернет-магазин сельхозтехники на PHP 8 + MySQL: спроектировал схему БД, написал серверную логику и задеплоил на боевой хостинг.
 
--  Ищу первую работу / стажировку Junior Fullstack или Frontend Developer
--  Люблю чистый код и проекты, которые решают реальные задачи
+Проходил практику в digital-агентстве **Команда F5**: автоматизация бизнес-процессов на amoCRM, интеграции с телефонией и мессенджерами, работа с API и виджетами.
+
+- Ищу первую работу или стажировку — Junior Fullstack / PHP-разработчик
+- Довожу проекты до задеплоенного состояния, а не до папки на диске
+- **[Портфолио →](https://kerry21st.github.io/portfolio/)**
 
 ### 🛠 Стек технологий
 
@@ -25,10 +27,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
-  <img src="https://skillicons.dev/icons?i=scss" alt="scss" />
-  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=vue" alt="Vue.js" />
 </p>
 
 **Backend**
@@ -36,47 +35,54 @@
   <img src="https://skillicons.dev/icons?i=php" alt="PHP" />
   <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" />
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" />
   <img src="https://skillicons.dev/icons?i=python" alt="Python" />
 </p>
 
 **Инструменты**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git" alt="Git" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
 </p>
+
+Дополнительно: REST API, Playwright, amoCRM, adaptive layout
 
 ---
 
 ### 🔥 Избранные проекты
 
-**FieldMate** — Полноценный интернет-магазин сельхозтехники  
+**FieldMate** — интернет-магазин сельхозтехники, полный цикл в одиночку: брендбук, дизайн-система, прототипы, вёрстка, бэкенд, деплой  
 `PHP 8 • MySQL • Vanilla JS`  
-→ **[Открыть сайт](https://fieldmate.tw1.ru)** • [GitHub](https://github.com/Kerry21st)
+→ **[Открыть сайт](https://fieldmate.tw1.ru)**
 
-**HockeyPro** — Интернет-магазин хоккейной экипировки
+**HH Job Agent** — мультиагентный Telegram-бот для поиска работы: собирает вакансии с hh.ru, оценивает их через LLM и генерирует сопроводительные письма  
+`Python • aiogram • Playwright • Gemini • SQLite`  
+→ [GitHub](https://github.com/Kerry21st/ai-hh-agent-tg-bot)
 
-**Voice Assistant Axis** — Голосовой ассистент
+**Voice Assistant Axis** — голосовой ассистент с локальной LLM  
+`Python • Llama 3.1 • Ollama`  
+→ [GitHub](https://github.com/Kerry21st/voice-assistant-axis)
 
-**Parallax Forest** — Анимированный лендинг
+**Weather App** — погодное приложение: геолокация, почасовой и недельный прогноз, интерактивная карта осадков  
+`JavaScript • Leaflet • Open-Meteo`  
+→ [GitHub](https://github.com/Kerry21st/weather-app)
 
----
+**Parallax Forest** — анимационный лендинг с многослойным parallax  
+`HTML • CSS • GSAP`  
+→ [GitHub](https://github.com/Kerry21st/Parallax-Forest)
 
-## 📊 GitHub Статистика
-
-<p align="center">
-  <a href="https://github.com/Kerry21st">
-    <img src="https://streak-stats.demolab.com/?user=Kerry21st&theme=dark" alt="Стрик временно недоступен" width="48%" />
-  </a>
-</p>
+**HockeyPro** — интернет-магазин хоккейной экипировки  
+`HTML • CSS • JavaScript`  
+→ [GitHub](https://github.com/Kerry21st/HockeyPro)
 
 ---
 
 ### 📚 Образование
 
-- **Чебоксарский электромеханический колледж** — Веб-разработка
-- Курсы **продуктового дизайна** — CaspperSoft (Чебоксары)
+- **Чебоксарский электромеханический колледж** — «Разработчик веб и мультимедийных приложений», диплом с отличием (2026)
+- Курс **продуктового дизайна** — КСБ-Софт, Чебоксары
 - Онлайн-курсы **JavaScript**
 
 ---
