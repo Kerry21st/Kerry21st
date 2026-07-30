@@ -68,7 +68,7 @@
 
 **Weather App** — погодное приложение: геолокация, почасовой и недельный прогноз, интерактивная карта осадков  
 `JavaScript • Leaflet • Open-Meteo`  
-→ [GitHub](https://github.com/Kerry21st/weather-app)
+→ **[Открыть демо](https://kerry21st.github.io/weather-app/)** · [GitHub](https://github.com/Kerry21st/weather-app)
 
 **Voice Assistant Axis** — голосовой ассистент с локальной LLM  
 `Python • Llama 3.1 • Ollama`  
@@ -76,11 +76,11 @@
 
 **HockeyPro** — интернет-магазин хоккейной экипировки  
 `HTML • CSS • JavaScript`  
-→ [GitHub](https://github.com/Kerry21st/HockeyPro)
+→ **[Открыть демо](https://kerry21st.github.io/HockeyPro/)** · [GitHub](https://github.com/Kerry21st/HockeyPro)
 
 **Parallax Forest** — анимационный лендинг с многослойным parallax  
 `HTML • CSS • GSAP`  
-→ [GitHub](https://github.com/Kerry21st/Parallax-Forest)
+→ **[Открыть демо](https://kerry21st.github.io/Parallax-Forest/)** · [GitHub](https://github.com/Kerry21st/Parallax-Forest)
 
 ---
 
