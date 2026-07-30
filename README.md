@@ -28,6 +28,7 @@
   <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
   <img src="https://skillicons.dev/icons?i=css" alt="CSS" />
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind CSS" />
 </p>
 
 **Backend**
@@ -57,25 +58,29 @@
 `PHP 8 • MySQL • Vanilla JS`  
 → **[Открыть сайт](https://fieldmate.tw1.ru)**
 
+**DATEFLIX** — интерактивное приглашение в интерфейсе стримингового сервиса: выбор профиля, баннер релиза, ряды карточек. Без сборки и внешних изображений, уведомления уходят через serverless-функцию  
+`Tailwind CSS • Vanilla JS • Cloudflare Workers`  
+→ **[Открыть демо](https://kerry21st.github.io/dateflix/)** · [GitHub](https://github.com/Kerry21st/dateflix)
+
 **HH Job Agent** — мультиагентный Telegram-бот для поиска работы: собирает вакансии с hh.ru, оценивает их через LLM и генерирует сопроводительные письма  
 `Python • aiogram • Playwright • Gemini • SQLite`  
 → [GitHub](https://github.com/Kerry21st/ai-hh-agent-tg-bot)
-
-**Voice Assistant Axis** — голосовой ассистент с локальной LLM  
-`Python • Llama 3.1 • Ollama`  
-→ [GitHub](https://github.com/Kerry21st/voice-assistant-axis)
 
 **Weather App** — погодное приложение: геолокация, почасовой и недельный прогноз, интерактивная карта осадков  
 `JavaScript • Leaflet • Open-Meteo`  
 → [GitHub](https://github.com/Kerry21st/weather-app)
 
-**Parallax Forest** — анимационный лендинг с многослойным parallax  
-`HTML • CSS • GSAP`  
-→ [GitHub](https://github.com/Kerry21st/Parallax-Forest)
+**Voice Assistant Axis** — голосовой ассистент с локальной LLM  
+`Python • Llama 3.1 • Ollama`  
+→ [GitHub](https://github.com/Kerry21st/voice-assistant-axis)
 
 **HockeyPro** — интернет-магазин хоккейной экипировки  
 `HTML • CSS • JavaScript`  
 → [GitHub](https://github.com/Kerry21st/HockeyPro)
+
+**Parallax Forest** — анимационный лендинг с многослойным parallax  
+`HTML • CSS • GSAP`  
+→ [GitHub](https://github.com/Kerry21st/Parallax-Forest)
 
 ---
 
